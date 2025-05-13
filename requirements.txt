@@ -1,0 +1,6 @@
+opencv-python
+deepface
+pygame
+numpy
+tensorflow
+keras
